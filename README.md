@@ -1,4 +1,4 @@
-# Template html
+# Example of using sasss in html using node
 
 ## Installation
 
