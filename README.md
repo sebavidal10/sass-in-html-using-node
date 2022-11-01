@@ -1,8 +1,8 @@
 # Template html
 
-## Instalación
+## Installation
 
 npm install
 
-## Características
-Sass para el manejo de estilos. Una librería se encarga de convertir el código sass a css. En **package.json** se detallan los scripts.
+## How it works?
+Sass for handling styles. A library is responsible for converting the sass code to css. The scripts are detailed in **package.json**.
