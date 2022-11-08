@@ -61,10 +61,21 @@ body {
 
   .title {
     padding: 10px;
-    background-color: #2d54b4;
     color: white;
     border-top-right-radius: 5px;
     border-top-left-radius: 5px;
+
+    &.blue {
+      background-color: #2d54b4;
+    }
+
+    &.red {
+      background-color: #d9534f;
+    }
+
+    &.green {
+      background-color: #5cb85c;
+    }
   }
 
   .amount {

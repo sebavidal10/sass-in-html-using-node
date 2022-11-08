@@ -45,10 +45,15 @@ body {
   margin-bottom: 10px; }
   .item .title {
     padding: 10px;
-    background-color: #2d54b4;
     color: white;
     border-top-right-radius: 5px;
     border-top-left-radius: 5px; }
+    .item .title.blue {
+      background-color: #2d54b4; }
+    .item .title.red {
+      background-color: #d9534f; }
+    .item .title.green {
+      background-color: #5cb85c; }
   .item .amount {
     font-size: 1.5em;
     font-weight: bold;
